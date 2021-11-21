@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(241, 194, 194);
+}
+h1{
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 180px;
+    width: 50%;
+    line-height: 2.5rem;
+    background-color: blue;
+}
+form{
+    text-align: center;
+    margin-left : 25%;
+    width : 50%;
+    margin-top: 5%;
+    font-size: large;
+}
+input{
+    color: aliceblue;
+}
+.submit:hover{
+    padding: 30px;
+    background-color: blueviolet;
+}
+input[type=text]{
+    opacity: 0.5;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(71, 69, 65);
+}
+label{
+    text-decoration: underline;
+}
+input[type=email]{
+    opacity: 0.5;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(71, 69, 65);
+}
+input[type=password]{
+    opacity: 0.5;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(71, 69, 65);
+}
+input[type=tel]{
+    opacity: 0.5;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(71, 69, 65);
+}
+p{
+    text-align: center;
+    padding: 20px;
+}
